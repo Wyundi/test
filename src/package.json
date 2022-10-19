@@ -1,0 +1,20 @@
+{
+  "name": "m_hub",
+  "version": "0.0.1",
+  "description": "CS546 final project, group 56.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wyundi/test.git"
+  },
+  "author": "Yundi Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wyundi/test/issues"
+  },
+  "homepage": "https://github.com/Wyundi/test#readme"
+}
